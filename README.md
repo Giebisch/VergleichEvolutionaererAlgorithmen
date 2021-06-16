@@ -1,0 +1,2 @@
+# VergleichEvolutionaererAlgorithmen
+Analyse und Vergleich ausgewählter evolutionärer Algorithmen
